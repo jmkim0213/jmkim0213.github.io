@@ -2,7 +2,7 @@
 layout: post
 title:  "[iOS] Swift버전 변경 시 pod프로젝트 빌드 안되는 이슈 해결방법"
 date:   2019-02-05 23:10:00 +0900
-categories: iOS
+categories: [iOS, CocoaPods]
 ---
 Swift언어의 버전은 금방 업데이트가 되나 우리가 사용하는 라이브러리들은 언어에 대한 대응이 늦을 때가 많습니다.  
 따라서 진행중인 프로젝트의 Swift버전을 올리게 되면 pod 프로젝트의 버전도 함께 올라가게 되어 빌드가 실패하는 경우가 종종 발생됩니다.

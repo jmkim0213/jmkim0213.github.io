@@ -2,7 +2,7 @@
 layout: post
 title:  "[iOS] state 별로 UIButton의 백그라운드 컬러변경하는 방법"
 date:   2019-02-05 23:50:00 +0900
-categories: iOS
+categories: [iOS, Swift, UI]
 ---
 UIButton 컴포넌트에는 normal, highlighted, disabled, selected 등 여러 상태에 따른 이미지를 지정할 수 있습니다.  
 그런데 왜 그런지는 모르겠지만 당연하게 있어야할거 같은 backgroundColor를 각 상태에 맞게 지정하는 방법을 지원하지 않습니다.
