@@ -15,7 +15,6 @@
 * Related Posts
 * Highlight pre
 * Next & Previous Post
-* Disqus comment
 * Projects page & Detail Project page
 * Share on social media
 * Google analytics
