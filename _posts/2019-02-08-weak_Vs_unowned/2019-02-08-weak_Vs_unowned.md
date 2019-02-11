@@ -56,7 +56,7 @@ bar.foo = foo     // Bar가 Foo를 약하게 참조
 
 ---
 # weak vs unowned
- weak와 unowned는 둘 다 약한참조를 위한 키워드로 참조하는 객체에 대한 참조계수에 영향을 주지 않습니다.  
+ weak와 unowned는 모두 약한참조를 위한 키워드로, 참조하는 객체에 대한 참조계수에 영향을 주지 않습니다.  
  그럼 이 둘은 어떤 차이가 있을까요? 
  
 weak키워드는 optional에 사용할 수 있으며, unowned는 non-optional인 경우에만 사용 가능합니다.  
