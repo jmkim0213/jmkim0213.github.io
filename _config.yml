@@ -4,7 +4,7 @@ author: 무과장
 github: https://github.com/jmkim0213
 about: 무과장의 개발로 개발
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+avatar_url: /static/img/avatar.jpg 
 
 enableTags: true
 tagarray: []
