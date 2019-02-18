@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Swift] DataModel (class와 struct 그리고 Copy On Write)"
+title:  "[Swift] class와 struct 그리고 Copy On Write"
 date:   2019-02-18 21:30:00 +0900
 categories: [iOS, Swift]
 ---
