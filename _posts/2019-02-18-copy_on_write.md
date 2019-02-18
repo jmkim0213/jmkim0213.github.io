@@ -9,7 +9,7 @@ categories: [iOS, Swift]
 Swift로 데이터의 집합을 표현하는 방법으로는 struct, class, tuple, array등 다양합니다.
 오늘은 이 중에서 주로 데이터 모델을 작성할때 사용하는 struct와 class에 대해 알아 보고자 합니다.
 
-class와 struct는 둘 다 Property와 Function을 가지고 있으며, 프로토콜을 구현할 수 있는 공통점이 있는 타입입니다.
+class와 struct는 둘 다 Property와 Function을 가지고 있으며, 프로토콜을 구현할 수 있는 공통점이 있는 타입입니다. 
 하지만 근본적으로 두 타입은 많이 다릅니다. 
 
 ---
