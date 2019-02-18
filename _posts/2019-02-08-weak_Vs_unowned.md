@@ -93,3 +93,7 @@ let weakClosure = { [weak self] in
 약한참조가 필요한 경우 weak 키워드만을 사용하고, guard let(또는 if let) 구문을 통해 안전하게 옵셔널 추출하는 것을 권장합니다.
 
 ---
+
+참고: https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html
+
+---
