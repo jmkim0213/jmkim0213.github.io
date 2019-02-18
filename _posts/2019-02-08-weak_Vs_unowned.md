@@ -94,6 +94,6 @@ let weakClosure = { [weak self] in
 
 ---
 
-참고: https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html
+참고: [https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html)
 
 ---

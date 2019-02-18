@@ -165,6 +165,6 @@ print("cowData2.data.strValue: \(cowData2.data.strValue)\n")
 
 ---
 
-참고: https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html
+참고: [https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
 
 ---
