@@ -161,6 +161,6 @@ print("cowData2.data.strValue: \(cowData2.data.strValue)\n")
 ---
 
 # 결과화면
-![](https://user-images.githubusercontent.com/4909483/52950964-f2673480-33c3-11e9-9635-670fbe4d1c92.png)
+![](https://user-images.githubusercontent.com/4909483/52954611-f8621300-33cd-11e9-94e6-f7d9445764d3.png)
 
 ---
