@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[iOS] 강한참조와 약한참조 (strong vs weak VS unowned)"
+title:  "[Swift] 강한참조와 약한참조 (strong vs weak VS unowned)"
 date:   2019-02-08 19:30:00 +0900
 categories: [iOS, Swift]
 ---
