@@ -164,3 +164,7 @@ print("cowData2.data.strValue: \(cowData2.data.strValue)\n")
 ![](https://user-images.githubusercontent.com/4909483/52954611-f8621300-33cd-11e9-94e6-f7d9445764d3.png)
 
 ---
+
+참고: https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html
+
+---
