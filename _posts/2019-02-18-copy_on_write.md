@@ -106,7 +106,7 @@ struct UserData {
 또한, UserData말고도 다른 타입에 대해 범용적으로 활용할 수 있도록 
 Generic(<T>)으로 데이터타입에 대한 유연성을 부여해줍니다.
 */
-struct DataWrapper<T> {
+class DataWrapper<T> {
     var data: T
 
     init(data: T) {
