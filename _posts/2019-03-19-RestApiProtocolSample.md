@@ -29,22 +29,22 @@ Github: [https://github.com/jmkim0213/RestApiProtocolSample](https://github.com/
 ----
 
 ### 구성
-1. protocol RestApiProtocol
+1. protocol **RestApiProtocol**
 - pop로 구현한 통신 프로토콜
 
-2. enum RestResult
+2. enum **RestResult**
 - 통신결과에 대한 열거형 (성공/실패)
 
-3. enum RestMethod
+3. enum **RestMethod**
 - HttpMethod + Multipart 열거형
 
-4. struct RestUploadFile
+4. struct **RestUploadFile**
 - 업로드할 파일에 대한 구조체
 
-5. RestRunnable
+5. **RestRunnable**
 - 마샬링을 Concurrent하게 처리하기 위한 유틸성 클로저
 
-6. class RestApiQueue
+6. class **RestApiQueue**
 - DataRequest 관리(취소)를 위해 구현한 객체
 
 ----
