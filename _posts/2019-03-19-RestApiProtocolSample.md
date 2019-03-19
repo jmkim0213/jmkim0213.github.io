@@ -13,16 +13,16 @@ Github: [https://github.com/jmkim0213/RestApiProtocolSample](https://github.com/
 ----
 
 ### POP
-프로토콜 지향적으로 설계하기 위해 RestApiProtocol을 구현했습니다.
+- 프로토콜 지향적으로 설계하기 위해 RestApiProtocol을 구현했습니다.
 
 ### RxSwift
-통신에 대한 결과 (성공, 실패 등)을 bind하여 처리하기위해 사용되었습니다.
+- 통신에 대한 결과 (성공, 실패 등)을 bind하여 처리하기위해 사용되었습니다.
 
 ### Alamofire
-네트워크 통신을 직접적으로 하기 위해 사용한 라이브러리 입니다.
+- 네트워크 통신을 직접적으로 하기 위해 사용한 라이브러리 입니다.
 
 ### Codable
-마샬링을 위해 Swift에서 기본적으로 제공되는 Codable을 사용했습니다.
+- 마샬링을 위해 Swift에서 기본적으로 제공되는 Codable을 사용했습니다.
 
 ----
 
