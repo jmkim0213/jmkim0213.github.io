@@ -26,6 +26,7 @@ $ java -version
 ----
 
 ### 톰캣 설치하기
+- 명령어  
 $ yum list | grep tomcat8  
 $ sudo yum install tomcat8  
 $ sudo yum install tomcat8-admin-webapps  
@@ -34,6 +35,7 @@ $ sudo yum install tomcat8-webapps
 ----
 
 ### 관리자 로그인 기능 활성화
+- 명령어  
 $ cd /usr/share/tomcat8/conf/Catalina/localhost  
 $ sudo vim ./manager.xml
 
@@ -46,17 +48,19 @@ $ sudo vim ./manager.xml
 ----
 
 ### 톰켓 관리자 설정
+- 명령어  
 $ cd /usr/share/tomcat8/conf  
 $ sudo vim ./tomcat-users.xml
 
 ----
 
 ### 톰캣 실행하기
+- 명령어  
 $ sudo service tomcat8 start
 
 ----
 
 ### War파일 배포하기
-http://{host}:8080/manager/html
+- http://{host}:8080/manager/html
 
 ----
