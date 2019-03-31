@@ -3,7 +3,7 @@ description: '개발로 개발하는 개발자 무과장 블로그입니다. :)'
 author: 무과장
 github: https://github.com/jmkim0213
 about: 무과장의 개발로 개발
-google_analytics: UA-XXXXXXXX-Y
+google_analytics: UA-137349960-1
 avatar_url: /static/img/avatar.jpg 
 
 enableTags: true
