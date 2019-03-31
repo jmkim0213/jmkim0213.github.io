@@ -6,7 +6,7 @@ categories: [AWS, SpringBoot, Tomcat]
 ---
 
 # 서론
-개인 프로젝트를 진행하면서 Spring Web Service를 EC2에 Deploy하기 위해 Tomcat을 설치했습니다.
+개인 프로젝트를 진행하면서 Spring Web Service를 EC2에 Deploy하기 위해 Tomcat을 설치했습니다.  
 간단하게 기록용으로 글을 작성합니다 :) 
 
 ----
