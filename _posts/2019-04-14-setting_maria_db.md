@@ -12,6 +12,7 @@ SpringBoot와 MaridDB를 연동하기 위한 설정 기록용 글입니다 :)
 
 ### JDBC 플러그인 설치
 - build.gradle파일에 의존성 추가
+
 dependencies {
   ...
   ...
